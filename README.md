@@ -17,3 +17,5 @@ O controle de versão é uma parte importante da IaC. Os arquivos de configuraç
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
 - Subir arquivo de script criado para a sua conta no GitHub.
 
+
+![imagem do organograma](https://github.com/blmarquess/linux-experience-project-01/blob/c5b8b018425e7b83749e0a7933b57ea0fe460d49/Captura%20de%20Tela%202022-08-15%20a%CC%80s%2023.31.48.png)
