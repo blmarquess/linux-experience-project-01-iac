@@ -25,3 +25,12 @@ users_group_sec=(
 )
 
 
+echo "Inicianando a rotina de criação de usuários e grupos"
+
+echo "Criando os grupos.:"
+for group in ${group_list[@]}; do
+  echo "Criando o grupo $group"
+  groupadd $group
+done
+
+
